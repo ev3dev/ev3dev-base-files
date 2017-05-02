@@ -1,0 +1,7 @@
+PRETTY_NAME="ev3dev-stretch"
+NAME="ev3dev-stretch"
+ID=ev3dev
+ID_LIKE=debian
+HOME_URL="http://www.ev3dev.org"
+SUPPORT_URL="http://www.ev3dev.org/support"
+BUG_REPORT_URL="https://github.com/ev3dev/ev3dev/issues"
