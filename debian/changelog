@@ -1,3 +1,9 @@
+ev3dev-base-files (1.0.1) testing; urgency=medium
+
+  * Fix motd override
+
+ -- David Lechner <david@lechnology.com>  Tue, 02 May 2017 17:04:55 -0500
+
 ev3dev-base-files (1.0.0) testing; urgency=medium
 
   * Initial release.
