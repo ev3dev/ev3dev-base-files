@@ -1,5 +1,5 @@
 /etc/dpkg/origins/default
 /etc/issue
 /etc/issue.net
+/etc/motd
 /usr/lib/os-release
-/usr/share/base-files/motd

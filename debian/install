@@ -1,5 +1,5 @@
 src/default.ev3dev /etc/dpkg/origins/
 src/issue.ev3dev /etc/
 src/issue.net.ev3dev /etc/
+src/motd.ev3dev /etc/
 src/os-release.ev3dev /usr/lib/
-src/motd.ev3dev /usr/share/base-files/
