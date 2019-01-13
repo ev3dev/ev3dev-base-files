@@ -1,5 +1,5 @@
-PRETTY_NAME="ev3dev-stretch"
-NAME="ev3dev-stretch"
+PRETTY_NAME="ev3dev-buster"
+NAME="ev3dev-buster"
 ID=ev3dev
 ID_LIKE=debian
 HOME_URL="http://www.ev3dev.org"
