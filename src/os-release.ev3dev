@@ -1,5 +1,5 @@
-PRETTY_NAME="ev3dev-buster"
-NAME="ev3dev-buster"
+PRETTY_NAME="ev3dev-bullseye"
+NAME="ev3dev-bullseye"
 ID=ev3dev
 ID_LIKE=debian
 HOME_URL="http://www.ev3dev.org"

@@ -4,13 +4,13 @@ Priority: required
 Maintainer: David Lechner <david@lechnology.com>
 Standards-Version: 4.3.0
 Build-Depends: debhelper (>= 10), config-package-dev,
-    base-files (>= 10), base-files (<< 11)
+    base-files (>= 11), base-files (<< 12)
 Vcs-Browser: https://github.com/ev3dev/ev3dev-base-files
 Vcs-Git: https://github.com/ev3dev/ev3dev-base-files.git
 
 Package: ev3dev-base-files
 Architecture: all
-Depends: base-files (>= 10), base-files (<< 11), ${misc:Depends}
+Depends: base-files (>= 11), base-files (<< 12), ${misc:Depends}
 Provides: ${diverted-files}
 Conflicts: ${diverted-files}
 Description: ev3dev branding of Debian base-files
